@@ -1,7 +1,4 @@
 <?php
-/// Posted on @ANUJ_BOTS || @AbBotCodes
-/// Developer @ANUJ_FF_ID_SELLER
-
 header("Content-Type: application/json; charset=UTF-8");
 
 if (!isset($_GET['url']) || empty($_GET['url'])) {
